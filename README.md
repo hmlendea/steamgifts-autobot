@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # SteamGifts AutoBot
 
 My old implementation of a SteamGifts bot.
